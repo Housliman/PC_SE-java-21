@@ -1,0 +1,5 @@
+if( somechar >= 'a' | somechar <= 'z' ) {
+	somechar -= 32;
+ } else {
+	somechar += 32;
+ }
